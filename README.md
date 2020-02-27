@@ -1,2 +1,2 @@
 # MVVMAndroid
-Android recyclerview android sample..
+Android recyclerview sample..
